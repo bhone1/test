@@ -1,6 +1,4 @@
 testing 1
-<<<<<<< HEAD
 testing 3
-=======
 testing 2
->>>>>>> c1c724f11dc033e8c694a369f6b129d6c530d94f
+
